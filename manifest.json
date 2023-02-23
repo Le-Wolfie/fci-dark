@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "FCAI Synthwave Theme",
+  "name": "FCAI Purply",
   "version": "1.0",
 
-  "description": "Turns the light down, and turns the synth up.",
+  "description": "Turns the light down, and the purple up.",
 
   "icons": {
     "48": "icon/dark-fci-icon.svg"
