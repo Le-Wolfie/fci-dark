@@ -23,8 +23,16 @@ body{
     
 }
 
+
 select{
     background-color: #0b073d !important;
+    transition: background-color 0.5s  !important;
+   
+}
+
+
+select:hover{
+    background-color: #261147 !important;
    
 }
 a{
