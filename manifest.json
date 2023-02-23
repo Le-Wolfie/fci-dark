@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "FCAI Synthwave Theme",
+  "version": "1.0",
+
+  "description": "Turns the light down, and turns the synth up.",
+
+  "icons": {
+    "48": "icon/dark-fci-icon.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.newecom.fci.cu.edu.eg/*", "*://193.227.14.58/*"],
+      "css":["borderify.css"],
+      "js":["borderify.js"]
+    }
+  ]
+}

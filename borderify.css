@@ -1,0 +1,53 @@
+*{
+    background-color: inherit!important;
+    color: inherit!important;
+    
+}
+body{
+    background-color: #040429!important;
+    color: #8c95e8!important;
+    margin-top: 62.4px !important;
+}
+
+.card{
+   background-color: "rgb(13, 29, 53)"!important;
+}
+
+.navbar{
+    background-color: #270f5b !important;
+    top: 0 !important;
+    left: 0!important;
+    z-index: 1000 !important;
+    position: fixed!important;
+    width: 100%!important;
+    
+}
+
+select{
+    background-color: #0b073d !important;
+   
+}
+a{
+    transition: color 0.5s  !important;
+}
+a:hover {
+    color:#411999 !important;
+}
+.alert-danger{
+    border-color:#320e80 !important;
+}
+
+.logo-img,
+.hipster.img-fluid.rounded {
+    background-image: url('https://raw.githubusercontent.com/youssef-attai/fcai-dark-mode/main/icons/fcai.png') !important;
+}
+
+.logo-img{
+    background-color: transparent !important;
+    transition: filter 0.5s  !important;
+}
+.logo-img:hover{
+    filter: brightness(150%) !important;
+
+}
+
