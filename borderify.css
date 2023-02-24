@@ -23,6 +23,14 @@ body{
     
 }
 
+.card-header{
+    background-color: rgb(37, 5, 78) !important;
+    border-color: #444447 !important;
+    border-bottom: 1px solid #444447 !important;
+    border-top: 1px solid #444447 !important;
+    border-left: 1px solid #444447 !important;
+    border-right: 1px solid #444447 !important;
+}
 
 select{
     background-color: #0b073d !important;
@@ -30,6 +38,26 @@ select{
    
 }
 
+input[type=text]{
+    background-color: #000000 !important;
+    
+   
+}
+input[type=password] {
+    background-color: #000000 !important;
+
+
+}
+.modal-content{
+    border-color: #444447 !important;
+    border-width: 3px !important;
+    background-color: #150433 !important;
+}
+
+
+.fade.show{
+    opacity: 0.8 !important;
+}
 
 select:hover{
     background-color: #261147 !important;
