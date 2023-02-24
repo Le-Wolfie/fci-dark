@@ -12,8 +12,8 @@
   "content_scripts": [
     {
       "matches": ["*://*.newecom.fci.cu.edu.eg/*", "*://193.227.14.58/*"],
-      "css":["borderify.css"],
-      "js":["borderify.js"]
+      "css":["fci-dark.css"],
+      "js":["fci-dark.js"]
     }
   ]
 }
